@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AI Budget Travel Planner</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🌍 Budget Friendly Travel Planner</h1>
+    <p class="subtitle">Plan smart. Travel more. Spend less.</p>
+
+    <div class="card">
+
+        <input id="destination" placeholder="📍 Destination">
+
+        <input id="budget" type="number" placeholder="💰 Budget (₹)">
+
+        <div class="dates">
+            <div>
+                <label>Start Date</label>
+                <input id="startDate" type="date">
+            </div>
+
+            <div>
+                <label>End Date</label>
+                <input id="endDate" type="date">
+            </div>
+        </div>
+
+        <button onclick="generatePlan()">Generate Travel Plan ✨</button>
+
+    </div>
+
+    <div id="result" class="result-box"></div>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
