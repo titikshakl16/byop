@@ -2,8 +2,10 @@
 # 🌍 Budget Friendly Travel Planner
 
 A web-based **Travel Planning Application** built using **Python Flask** that helps users create affordable travel plans based on budget, destination, and travel dates.
+The Budget Friendly Travel Planner is a web-based application developed using Python and Flask that helps users plan affordable trips efficiently. The system allows users to enter their destination, travel dates, and budget, and generates a personalized travel plan including transportation options, accommodation suggestions, food recommendations, tourist attractions, and activities.
+The main objective of this project is to simplify travel planning while maintaining cost efficiency. Many travellers face difficulties organizing trips within limited budgets. This application provides structured recommendations that assist users in making informed travel decisions.
+The project demonstrates practical implementation of web development concepts, backend logic design, and basic AI-inspired recommendation systems. It also introduces students to full-stack development using modern technologies
 
----
 
 ## Project Overview
 
