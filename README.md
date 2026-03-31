@@ -1,3 +1,9 @@
+## Student Information
+- Name: TITIKSHA KALE
+- Registration Number: 25BAI10744
+- Program: B.Tech CSE(AIML)
+- Course: Fundamentals of AI and ML
+
 # 
 # 🌍 Budget Friendly Travel Planner
 
